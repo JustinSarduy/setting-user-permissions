@@ -41,20 +41,19 @@ In this tutorial, we will be creating network files and setting permissions for 
 
 
 <h2>Actions and Observations</h2>
+<img width="349" height="356" alt="Screenshot 2025-08-20 163827" src="https://github.com/user-attachments/assets/53ae8b85-eaf6-48ea-b251-43fa06390fdc" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+As shown in the image, once the "read-access" file has been created, you will see different tabs but at the bottom there will be "Properties". Properties is where you will be able to set permissions for users in the system.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="362" height="206" alt="Screenshot 2025-08-20 164601" src="https://github.com/user-attachments/assets/34dcc576-aa72-46fa-8b23-93b0e57f63c6" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you click "Properties" the image above will be shown on your sceen. There will be different tabs to go through, but the one that we will go through is the "Share" tab.
 </p>
 <br />
 
